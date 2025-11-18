@@ -74,3 +74,7 @@ Using methods to break down the logic.
 ✔️ Clean Coding Practices
 
 Readable, simple, and structured solutions.
+# screenshot
+<img width="1313" height="823" alt="Screenshot 2025-11-18 230036" src="https://github.com/user-attachments/assets/801d2738-3360-4c3c-9c5d-6bda68d18544" />
+<img width="1592" height="516" alt="Screenshot 2025-11-18 230054" src="https://github.com/user-attachments/assets/5ebcbc16-0ce3-4243-a094-c24fc79cdf6c" />
+<img width="1583" height="507" alt="Screenshot 2025-11-18 230116" src="https://github.com/user-attachments/assets/64a03c91-6a06-4798-af8f-807dcde486bb" />
